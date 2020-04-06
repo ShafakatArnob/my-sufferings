@@ -1,4 +1,20 @@
 {
+  "CF75646293": {
+    "contest_id": 1154,
+    "language": "Java 11",
+    "path": "codeforces\\1154\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restoring Three Numbers",
+    "problem_url": "https://codeforces.com/contest/1154/problem/A",
+    "submission_id": "CF75646293",
+    "submission_url": "https://codeforces.com/contest/1154/submission/75646293",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2020 16:33"
+  },
   "CF80530359": {
     "contest_id": 1030,
     "language": "Java 8",
