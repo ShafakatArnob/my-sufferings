@@ -1,4 +1,20 @@
 {
+  "CF80530359": {
+    "contest_id": 1030,
+    "language": "Java 8",
+    "path": "codeforces\\1030\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1030/problem/A",
+    "submission_id": "CF80530359",
+    "submission_url": "https://codeforces.com/contest/1030/submission/80530359",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/17/2020 20:48"
+  },
   "CF80534269": {
     "contest_id": 69,
     "language": "Java 8",
