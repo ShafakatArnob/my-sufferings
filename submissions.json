@@ -1,4 +1,21 @@
 {
+  "CF80618754": {
+    "contest_id": 231,
+    "language": "Java 11",
+    "path": "codeforces\\231\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF80618754",
+    "submission_url": "https://codeforces.com/contest/231/submission/80618754",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/18/2020 21:45"
+  },
   "CF80620499": {
     "contest_id": 546,
     "language": "Java 11",
