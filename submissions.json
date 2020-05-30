@@ -1,4 +1,20 @@
 {
+  "CF81979097": {
+    "contest_id": 705,
+    "language": "Java 11",
+    "path": "codeforces\\705\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF81979097",
+    "submission_url": "https://codeforces.com/contest/705/submission/81979097",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/30/2020 21:15"
+  },
   "CF82045382": {
     "contest_id": 59,
     "language": "Java 11",
