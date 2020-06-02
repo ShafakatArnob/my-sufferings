@@ -1,4 +1,24 @@
 {
+  "CF82320768": {
+    "contest_id": 409,
+    "language": "Java 11",
+    "path": "codeforces\\409\\H.java",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "A + B Strikes Back",
+    "problem_url": "https://codeforces.com/contest/409/problem/H",
+    "submission_id": "CF82320768",
+    "submission_url": "https://codeforces.com/contest/409/submission/82320768",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/02/2020 21:05"
+  },
   "CF82643373": {
     "contest_id": 791,
     "language": "Java 11",
