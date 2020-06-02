@@ -1,4 +1,21 @@
 {
+  "CF82320084": {
+    "contest_id": 913,
+    "language": "Java 11",
+    "path": "codeforces\\913\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Modular Exponentiation",
+    "problem_url": "https://codeforces.com/contest/913/problem/A",
+    "submission_id": "CF82320084",
+    "submission_url": "https://codeforces.com/contest/913/submission/82320084",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/02/2020 20:57"
+  },
   "CF82320768": {
     "contest_id": 409,
     "language": "Java 11",

@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-8 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Java 11](./codeforces/486/A.java) | `implementation` `math` `*800` | Jun/16/2020 17:54 | 
-7 | [A - Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | [Java 11](./codeforces/1186/A.java) | `implementation` `*800` | Jun/16/2020 00:55 | 
-6 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Java 11](./codeforces/236/A.java) | `brute force` `implementation` `strings` `*800` | Jun/15/2020 21:22 | 
-5 | [A - I'm bored with life](https://codeforces.com/contest/822/problem/A) | [Java 11](./codeforces/822/A.java) | `implementation` `math` `number theory` `*800` | Jun/12/2020 19:39 | 
-4 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Java 11](./codeforces/677/A.java) | `implementation` `*800` | Jun/12/2020 19:24 | 
-3 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [Java 11](./codeforces/467/A.java) | `implementation` `*800` | Jun/06/2020 00:13 | 
-2 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Java 11](./codeforces/791/A.java) | `implementation` `*800` | Jun/05/2020 21:26 | 
-1 | [H - A + B Strikes Back](https://codeforces.com/contest/409/problem/H) | [Java 11](./codeforces/409/H.java) | `*special problem` `brute force` `constructive algorithms` `dsu` `implementation` `*1500` | Jun/02/2020 21:05 | 
+9 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Java 11](./codeforces/486/A.java) | `implementation` `math` `*800` | Jun/16/2020 17:54 | 
+8 | [A - Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | [Java 11](./codeforces/1186/A.java) | `implementation` `*800` | Jun/16/2020 00:55 | 
+7 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Java 11](./codeforces/236/A.java) | `brute force` `implementation` `strings` `*800` | Jun/15/2020 21:22 | 
+6 | [A - I'm bored with life](https://codeforces.com/contest/822/problem/A) | [Java 11](./codeforces/822/A.java) | `implementation` `math` `number theory` `*800` | Jun/12/2020 19:39 | 
+5 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Java 11](./codeforces/677/A.java) | `implementation` `*800` | Jun/12/2020 19:24 | 
+4 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [Java 11](./codeforces/467/A.java) | `implementation` `*800` | Jun/06/2020 00:13 | 
+3 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Java 11](./codeforces/791/A.java) | `implementation` `*800` | Jun/05/2020 21:26 | 
+2 | [H - A + B Strikes Back](https://codeforces.com/contest/409/problem/H) | [Java 11](./codeforces/409/H.java) | `*special problem` `brute force` `constructive algorithms` `dsu` `implementation` `*1500` | Jun/02/2020 21:05 | 
+1 | [A - Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | [Java 11](./codeforces/913/A.java) | `implementation` `math` `*900` | Jun/02/2020 20:57 | 
