@@ -1,4 +1,19 @@
 {
+  "CF82318365": {
+    "contest_id": 1331,
+    "language": "Java 11",
+    "path": "codeforces\\1331\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated?",
+    "problem_url": "https://codeforces.com/contest/1331/problem/A",
+    "submission_id": "CF82318365",
+    "submission_url": "https://codeforces.com/contest/1331/submission/82318365",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Jun/02/2020 20:39"
+  },
   "CF82320084": {
     "contest_id": 913,
     "language": "Java 11",
