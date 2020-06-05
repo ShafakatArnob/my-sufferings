@@ -1,4 +1,20 @@
 {
+  "CF82654723": {
+    "contest_id": 467,
+    "language": "Java 11",
+    "path": "codeforces\\467\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "George and Accommodation",
+    "problem_url": "https://codeforces.com/contest/467/problem/A",
+    "submission_id": "CF82654723",
+    "submission_url": "https://codeforces.com/contest/467/submission/82654723",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/06/2020 00:13"
+  },
   "CF83534373": {
     "contest_id": 677,
     "language": "Java 11",
