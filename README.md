@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/Shafakat_Arnob.svg)](https://codeforces.com/profile/Shafakat_Arnob)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Java 11](./codeforces/486/A.java) | `implementation` `math` `*800` | Jun/16/2020 17:54 | 
