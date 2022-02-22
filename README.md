@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+27 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [GNU C++17](./codeforces/1633/C.cpp) | `brute force` `math` `*1100` | Feb/22/2022 19:49 | 
 26 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Java 11](./codeforces/486/A.java) | `implementation` `math` `*800` | Jun/16/2020 17:54 | 
 25 | [A - Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | [Java 11](./codeforces/1186/A.java) | `implementation` `*800` | Jun/16/2020 00:55 | 
 24 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Java 11](./codeforces/236/A.java) | `brute force` `implementation` `strings` `*800` | Jun/15/2020 21:22 | 
