@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+28 | [B - I love AAAB](https://codeforces.com/contest/1672/problem/B) | [Python 3](./codeforces/1672/B.py) | `constructive algorithms` `implementation` `*800` | Apr/26/2022 02:11 | 
 27 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [GNU C++17](./codeforces/1633/C.cpp) | `brute force` `math` `*1100` | Feb/22/2022 19:49 | 
 26 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Java 11](./codeforces/486/A.java) | `implementation` `math` `*800` | Jun/16/2020 17:54 | 
 25 | [A - Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | [Java 11](./codeforces/1186/A.java) | `implementation` `*800` | Jun/16/2020 00:55 | 
